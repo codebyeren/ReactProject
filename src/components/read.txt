@@ -1,0 +1,1 @@
+Lưu mấy components như navbar ,header , foot button , spinter , text box mà dùng lại nhiều lần 

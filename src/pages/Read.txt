@@ -1,0 +1,1 @@
+Chứa các trang chính < home , about , contact ,login , register , v.v

@@ -1,0 +1,1 @@
+Css chung cho các trang kiểu thuộc global 
